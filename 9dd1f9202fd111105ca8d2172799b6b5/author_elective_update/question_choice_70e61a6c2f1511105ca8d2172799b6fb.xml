@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Ingredientes">867df5682fd111105ca8d2172799b661</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 19:29:14</sys_created_on>
+        <sys_id>70e61a6c2f1511105ca8d2172799b6fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pollo</sys_name>
+        <sys_package display_value="ServiceNow_CatalogItem" source="x_857394_serviceno">9dd1f9202fd111105ca8d2172799b6b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow_CatalogItem">9dd1f9202fd111105ca8d2172799b6b5</sys_scope>
+        <sys_update_name>question_choice_70e61a6c2f1511105ca8d2172799b6fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 19:29:14</sys_updated_on>
+        <text>Pollo</text>
+        <value>pollo</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=70e61a6c2f1511105ca8d2172799b6fb"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>70e61a6c2f1511105ca8d2172799b6fb</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 19:29:14</sys_created_on>
+        <sys_id>21f69a6c2f1511105ca8d2172799b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 19:29:14</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>70e61a6c2f1511105ca8d2172799b6fb</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 19:29:14</sys_created_on>
+        <sys_id>e5f69a6c2f1511105ca8d2172799b601</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 19:29:14</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceNow_CatalogItem">9dd1f9202fd111105ca8d2172799b6b5</application>
+        <file_path/>
+        <instance_id>a3a306d8db7e00908aea21c4059619eb</instance_id>
+        <instance_name>dev98941</instance_name>
+        <name>question_choice_70e61a6c2f1511105ca8d2172799b6fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>200</order><published_ref/><question display_value="Ingredientes">867df5682fd111105ca8d2172799b661</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-10 19:29:14</sys_created_on><sys_id>70e61a6c2f1511105ca8d2172799b6fb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Pollo</sys_name><sys_package display_value="ServiceNow_CatalogItem" source="x_857394_serviceno">9dd1f9202fd111105ca8d2172799b6b5</sys_package><sys_policy/><sys_scope display_value="ServiceNow_CatalogItem">9dd1f9202fd111105ca8d2172799b6b5</sys_scope><sys_update_name>question_choice_70e61a6c2f1511105ca8d2172799b6fb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-10 19:29:14</sys_updated_on><text>Pollo</text><value>pollo</value></question_choice><fx_price action="delete_multiple" query="id=70e61a6c2f1511105ca8d2172799b6fb"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>70e61a6c2f1511105ca8d2172799b6fb</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-10 19:29:14</sys_created_on><sys_id>21f69a6c2f1511105ca8d2172799b602</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-10 19:29:14</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>70e61a6c2f1511105ca8d2172799b6fb</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-10 19:29:14</sys_created_on><sys_id>e5f69a6c2f1511105ca8d2172799b601</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-10 19:29:14</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-1718382218</payload_hash>
+        <record_name>Pollo</record_name>
+        <reverted_from/>
+        <source>d823fd202fd111105ca8d2172799b6fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 19:29:14</sys_created_on>
+        <sys_id>21f69a6c2f1511105ca8d2172799b604</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182893b806d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 19:29:14</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>69f69a6c091511107ceb5ef5fadd5f03</update_guid>
+        <update_guid_history>69f69a6c091511107ceb5ef5fadd5f03:-1718382218</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Pollo">0529d6ec2f1511105ca8d2172799b69d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 19:38:45</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>e88406af2b914900aea57b962c530c04</sys_id>
+        <sys_metadata>70e61a6c2f1511105ca8d2172799b6fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pollo</sys_name>
+        <sys_package display_value="ServiceNow_CatalogItem" source="x_857394_serviceno">9dd1f9202fd111105ca8d2172799b6b5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow_CatalogItem">9dd1f9202fd111105ca8d2172799b6b5</sys_scope>
+        <sys_scope_delete display_value="">02d176d2446d4eaf8059efb24df83f69</sys_scope_delete>
+        <sys_update_name>question_choice_70e61a6c2f1511105ca8d2172799b6fb</sys_update_name>
+        <sys_update_version display_value="question_choice_70e61a6c2f1511105ca8d2172799b6fb">21f69a6c2f1511105ca8d2172799b604</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 19:38:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
