@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
     <io_set_item action="INSERT_OR_UPDATE">
-        <order>700</order>
+        <order>600</order>
         <sc_cat_item display_value="Pizza Delivery Service">05e3fda02fd111105ca8d2172799b683</sc_cat_item>
         <sys_class_name>io_set_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-10 19:58:21</sys_created_on>
         <sys_id>2a8d9ea02f5511105ca8d2172799b6e6</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Postres.Pizza Delivery Service</sys_name>
         <sys_package display_value="ServiceNow_CatalogItem" source="x_857394_serviceno">9dd1f9202fd111105ca8d2172799b6b5</sys_package>
         <sys_policy/>
         <sys_scope display_value="ServiceNow_CatalogItem">9dd1f9202fd111105ca8d2172799b6b5</sys_scope>
         <sys_update_name>io_set_item_2a8d9ea02f5511105ca8d2172799b6e6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-10 20:05:45</sys_updated_on>
+        <sys_updated_on>2022-08-11 02:36:59</sys_updated_on>
         <variable_set display_value="Postres">989dd2e02f5511105ca8d2172799b665</variable_set>
     </io_set_item>
 </record_update>

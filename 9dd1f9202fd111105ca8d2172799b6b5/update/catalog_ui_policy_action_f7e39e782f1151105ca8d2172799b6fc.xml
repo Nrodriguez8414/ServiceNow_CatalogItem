@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="Pizza Delivery Service">05e3fda02fd111105ca8d2172799b683</catalog_item>
-        <catalog_variable>IO:fe4d5ea02f5511105ca8d2172799b6dd</catalog_variable>
+        <catalog_variable>IO:13743bec2f1911105ca8d2172799b6f0</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
         <mandatory>true</mandatory>
-        <order>100</order>
+        <order>1100</order>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-08-10 20:43:21</sys_created_on>
-        <sys_id>83d722e82f5511105ca8d2172799b6e7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>aperitivos</sys_name>
+        <sys_created_on>2022-08-11 13:54:52</sys_created_on>
+        <sys_id>f7e39e782f1151105ca8d2172799b6fc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>informacion_de_pago</sys_name>
         <sys_package display_value="ServiceNow_CatalogItem" source="x_857394_serviceno">9dd1f9202fd111105ca8d2172799b6b5</sys_package>
         <sys_policy/>
         <sys_scope display_value="ServiceNow_CatalogItem">9dd1f9202fd111105ca8d2172799b6b5</sys_scope>
-        <sys_update_name>catalog_ui_policy_action_83d722e82f5511105ca8d2172799b6e7</sys_update_name>
+        <sys_update_name>catalog_ui_policy_action_f7e39e782f1151105ca8d2172799b6fc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-10 20:43:21</sys_updated_on>
+        <sys_updated_on>2022-08-11 13:55:15</sys_updated_on>
         <table/>
-        <ui_policy display_value="Aperitivos Menu">9b876ea82f5511105ca8d2172799b60f</ui_policy>
-        <variable>aperitivos</variable>
+        <ui_policy display_value="Home delivery">8ee2b3ac2f1911105ca8d2172799b697</ui_policy>
+        <variable>informacion_de_pago</variable>
         <variable_set/>
         <visible>true</visible>
     </catalog_ui_policy_action>

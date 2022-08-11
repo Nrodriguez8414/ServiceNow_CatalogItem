@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
     <io_set_item action="INSERT_OR_UPDATE">
-        <order>300</order>
+        <order>1000</order>
         <sc_cat_item display_value="Pizza Delivery Service">05e3fda02fd111105ca8d2172799b683</sc_cat_item>
         <sys_class_name>io_set_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-08-10 19:57:30</sys_created_on>
-        <sys_id>e9fcd2a02f5511105ca8d2172799b69e</sys_id>
+        <sys_created_on>2022-08-11 02:18:14</sys_created_on>
+        <sys_id>5f64f7ec2f1911105ca8d2172799b6dd</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>Big Dinner Box.Pizza Delivery Service</sys_name>
+        <sys_name>Informacion de pago.Pizza Delivery Service</sys_name>
         <sys_package display_value="ServiceNow_CatalogItem" source="x_857394_serviceno">9dd1f9202fd111105ca8d2172799b6b5</sys_package>
         <sys_policy/>
         <sys_scope display_value="ServiceNow_CatalogItem">9dd1f9202fd111105ca8d2172799b6b5</sys_scope>
-        <sys_update_name>io_set_item_e9fcd2a02f5511105ca8d2172799b69e</sys_update_name>
+        <sys_update_name>io_set_item_5f64f7ec2f1911105ca8d2172799b6dd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-11 02:36:40</sys_updated_on>
-        <variable_set display_value="Big Dinner Box">2bfc16a02f5511105ca8d2172799b652</variable_set>
+        <sys_updated_on>2022-08-11 02:32:18</sys_updated_on>
+        <variable_set display_value="Informacion de pago">13743bec2f1911105ca8d2172799b6f0</variable_set>
     </io_set_item>
 </record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Pizza Delivery Service">05e3fda02fd111105ca8d2172799b683</catalog_item>
+        <catalog_variable>IO:7f05fde02fd111105ca8d2172799b605</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>200</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 20:51:38</sys_created_on>
+        <sys_id>60b9aa2c2f5511105ca8d2172799b611</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>type_of_food</sys_name>
+        <sys_package display_value="ServiceNow_CatalogItem" source="x_857394_serviceno">9dd1f9202fd111105ca8d2172799b6b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow_CatalogItem">9dd1f9202fd111105ca8d2172799b6b5</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_60b9aa2c2f5511105ca8d2172799b611</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 20:51:38</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Bebidas Menu">3a59e62c2f5511105ca8d2172799b605</ui_policy>
+        <variable>type_of_food</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceNow_CatalogItem">9dd1f9202fd111105ca8d2172799b6b5</application>
+        <file_path/>
+        <instance_id>a3a306d8db7e00908aea21c4059619eb</instance_id>
+        <instance_name>dev98941</instance_name>
+        <name>catalog_ui_policy_action_60b9aa2c2f5511105ca8d2172799b611</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Pizza Delivery Service">05e3fda02fd111105ca8d2172799b683</catalog_item><catalog_variable>IO:7f05fde02fd111105ca8d2172799b605</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>200</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-10 20:51:38</sys_created_on><sys_id>60b9aa2c2f5511105ca8d2172799b611</sys_id><sys_mod_count>0</sys_mod_count><sys_name>type_of_food</sys_name><sys_package display_value="ServiceNow_CatalogItem" source="x_857394_serviceno">9dd1f9202fd111105ca8d2172799b6b5</sys_package><sys_policy/><sys_scope display_value="ServiceNow_CatalogItem">9dd1f9202fd111105ca8d2172799b6b5</sys_scope><sys_update_name>catalog_ui_policy_action_60b9aa2c2f5511105ca8d2172799b611</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-10 20:51:38</sys_updated_on><table/><ui_policy display_value="Bebidas Menu">3a59e62c2f5511105ca8d2172799b605</ui_policy><variable>type_of_food</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1374701980</payload_hash>
+        <record_name>type_of_food</record_name>
+        <reverted_from/>
+        <source>d823fd202fd111105ca8d2172799b6fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 20:51:38</sys_created_on>
+        <sys_id>60d96e2c2f5511105ca8d2172799b606</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1828986f1510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 20:51:38</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>a8d96e2c10551110298042df27adb905</update_guid>
+        <update_guid_history>a8d96e2c10551110298042df27adb905:1374701980</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="type_of_food">0a923f6c2f1911105ca8d2172799b666</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 02:09:35</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>a2fcc9551e3c419eaf890648d0622b01</sys_id>
+        <sys_metadata>60b9aa2c2f5511105ca8d2172799b611</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>type_of_food</sys_name>
+        <sys_package display_value="ServiceNow_CatalogItem" source="x_857394_serviceno">9dd1f9202fd111105ca8d2172799b6b5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow_CatalogItem">9dd1f9202fd111105ca8d2172799b6b5</sys_scope>
+        <sys_scope_delete display_value="">02d176d2446d4eaf8059efb24df83f69</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_60b9aa2c2f5511105ca8d2172799b611</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_60b9aa2c2f5511105ca8d2172799b611">60d96e2c2f5511105ca8d2172799b606</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 02:09:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
